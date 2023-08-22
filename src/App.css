@@ -1,0 +1,51 @@
+
+.div1{
+background-color: white;
+width: 450px;
+height: 740px;
+position: absolute;
+top: 5px;
+left: 5px;
+border-radius: 7px;
+
+}
+.div2{
+  background-color: white;
+  width: 1040px;
+  height: 480px;
+  position: absolute;
+  top: 5px;
+  left: 470px;
+  border-radius: 7px;
+  
+  }
+  .div3{
+    background-color: white;
+    width: 1040px;
+    height: 250px;
+    position: absolute;
+    top:490px;
+    left: 470px;
+    border-radius: 7px;
+    
+    }
+    .div1 input{
+      width: 90%;
+      appearance: none;
+      outline:none;
+      margin-left: 20px;
+      height: 13px;
+      background-color: #efeaee;
+     
+  }
+  .div1 input::-webkit-slider-thumb{
+  float:left;
+  height:13px;
+  border:1px soild #40bb93;
+  background-color: #40bb93;
+  appearance: none;
+  border-radius: 15px;
+  width: 90%;
+  
+  }
+  
